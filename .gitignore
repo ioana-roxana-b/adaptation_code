@@ -18,3 +18,4 @@ paper/*.png
 paper/*.pdf
 paper/sensitivity_logs/
 paper/noruns_logs/
+.gitignore
