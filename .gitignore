@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Texts (not redistributable): ScriptBase, Project Gutenberg, screenplay PDFs
+external/
+*.pdf
+
+# Generated
+cache/
+out_screenplays/
+out_v2/
+paper/*.csv
+paper/*.txt
+paper/*.png
+paper/*.pdf
+paper/sensitivity_logs/
+paper/noruns_logs/
